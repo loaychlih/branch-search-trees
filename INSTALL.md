@@ -1,4 +1,4 @@
-## Description plus détaillée de l'installation et des dépendances dans le README du repositorie
+## Description plus détaillée de l'installation et des dépendances
 # Création de l'environnement : 
 ```
 conda create --name myenv python=3.8.0
