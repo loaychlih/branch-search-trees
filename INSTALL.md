@@ -28,7 +28,7 @@ make -C ./build install
 cd ..
 ```
 
-# SCIP
+## SCIP
 
 SCIP 6.0.1 (free for academic uses)
 
